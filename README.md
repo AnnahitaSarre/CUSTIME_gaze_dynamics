@@ -15,7 +15,7 @@ CS video stimuli can be found at: https://owncloud.icm-institute.org/index.php/s
 ### 📂 Repository structure
 Please feel free to reach me for additional information!
 ```
-CUSPEX article 1
+CUSTIME_gaze_dynamics
 .
 ├── analysis
 │   └── code
